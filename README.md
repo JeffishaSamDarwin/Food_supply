@@ -109,6 +109,14 @@ The system uses core Salesforce technologies—including **custom objects** for 
 ## 🧑‍💻 Project Role
 As this was an **Team project**, all roles and responsibilities—including Project Lead, Salesforce Developer, Document Specialist, QA Tester, and Video Presenter—were managed and executed by a group of people.
 
+| Role | Responsibility |
+|------|----------------|
+| **Project Lead** | Oversees the entire project lifecycle. |
+| **Salesforce Developer** | Designs and configures objects, flows, and dashboards. |
+| **Document Specialist** | Prepares and formats project reports. |
+| **Tester** | Conducts testing for functionality and performance. |
+| **Video Presenter** | Demonstrates the working of the final project. |
+
 ---
 
 ## 📽️ Project Demonstration
