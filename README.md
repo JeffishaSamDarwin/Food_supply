@@ -107,9 +107,9 @@ The system uses core Salesforce technologies—including **custom objects** for 
 ---
 
 ## 🧑‍💻 Project Role
-As this was an **individual project**, all roles and responsibilities—including Project Lead, Salesforce Developer, Document Specialist, QA Tester, and Video Presenter—were managed and executed by a single person.
+As this was an **Team project**, all roles and responsibilities—including Project Lead, Salesforce Developer, Document Specialist, QA Tester, and Video Presenter—were managed and executed by a group of people.
 
 ---
 
 ## 📽️ Project Demonstration
-🎥 https://drive.google.com/file/d/12kJibKxE7dnRmMyiN2NvcrOoUZIVU_-i/view?usp=drivesdk
+🎥 
